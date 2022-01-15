@@ -18,6 +18,8 @@ body {
 .brand-title {
     font-size: 1.5rem;
     margin: .5rem;
+    color:rgb(187, 29, 18)
+}
 }
 
 .navbar-links ul {
