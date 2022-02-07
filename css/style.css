@@ -228,7 +228,7 @@
     font-weight: bolder;
   }
   
-  @media only screen and (max-width: 768px) {
+  @media only screen and (max-width: 1100) {
     .container-fluid {
       display: flex;
       flex-direction: column;
